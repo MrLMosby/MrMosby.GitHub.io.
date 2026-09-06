@@ -1,8 +1,10 @@
 # MrMosby.GitHub.io.
 
 ## Social Structure of Facebook Networks Facebook Data Scrape
+
 ## Website: 
 (https://archive.org/details/oxford-2005-facebook-matrix)
+
 ## Description
 This dataset provides information on 100 college students, like when Facebook first began, only for college students; To analyze how of if, the information provided by each student, collectively influences the entire group. They wanted to see if students of the same age, year, or major, form their own groups for a social structure study. The research found that every college has its own ecosystem of communities with varying social networks for several reasons.
 
@@ -12,7 +14,7 @@ This dataset provides information on 100 college students, like when Facebook fi
 ## Book: 
 *Artificial Intelligence-A-Modern-Approach-4th-Edition*
 
-## Site: 
+## WebSite: 
 (https://github.com/sxcong/books/blob/main/Artificial-Intelligence-A-Modern-Approach-4th.pdf)
 
 ### Authors: Stuart Russell and Peter Norvig
