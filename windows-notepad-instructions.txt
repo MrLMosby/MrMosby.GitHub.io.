@@ -1,0 +1,9 @@
+WINDOWS NOTEPAD WEBSITE
+1. Open the supplied code text file in Notepad. The long image text is the embedded hero photograph; leave it intact.
+2. File > Save As. File name: index.html. Save as type: All files (*.*). Encoding: UTF-8.
+3. Double-click the saved HTML file to open it in Edge, Chrome, or Firefox. You can also open the supplied ready-made HTML directly.
+4. To edit: open index.html in Notepad, edit text/styles/sample rows, save, then refresh your browser.
+5. To import: drop a comma-separated UTF-8 CSV onto the page, map columns, then apply. Required: occupation and risk_score (0–100); optional state, region, employment. Export spreadsheets as CSV. Limit 20,000 rows / 10 MB.
+6. Imports replace the current dataset only in the browser tab; they are NOT saved to the HTML file. Refresh resets the sample data. To set permanent initial data, replace the rows array in the script with normalized data and set demo=false. No server uploads occur.
+This is a standalone HTML/CSS/JavaScript page, not a WordPress plugin. WordPress is not needed. It is not automatically online or shared with others. There is no live-data integration, model calculation, or geographic map.
+The hero is cropped from the supplied reference image. Confirm reuse rights before public publication. Statistics are synthetic examples, not findings. Test the generated page in your browser before deployment.
