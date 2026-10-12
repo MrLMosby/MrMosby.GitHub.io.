@@ -1,20 +1,22 @@
-# MrMosby.GitHub.io.
+Overview
 
-# Awesome-Datascience-GitHub
-
-## *Social Structure of Facebook Networks Facebook Data Scrape*
-## Site: [Click Here](https://archive.org/details/oxford-2005-facebook-matrix)
-
-## Description
-This dataset provides information on 100 college students, like when Facebook first began, only for college students; To analyze how of if, the information provided by each student, collectively influences the entire group. They wanted to see if students of the same age, year, or major, form their own groups for a social structure study. The research found that every college has its own ecosystem of communities with varying social networks for several reasons.
+Workforce is an interactive web application designed to explore workforce trends, automation risks, and the impact of emerging technologies on jobs and industries. The platform provides users with data-driven insights, visualizations, and tools to better understand how automation and artificial intelligence are reshaping the modern workforce
 
 
-# Free-Data-Science-Book
+Features
 
-## Book: *Artificial Intelligence-A-Modern-Approach-4th-Edition*
-## Site: [Click Here](https://github.com/sxcong/books/blob/main/Artificial-Intelligence-A-Modern-Approach-4th.pdf)
+- Workforce automation risk analysis
+- Interactive dashboards and visualizations
+- Industry and occupation comparisons
+- Workforce trend monitoring
+- User-friendly web interface
+- Responsive design for desktop and mobile devices
+Purpose
+The purpose of this project is to help students, researchers, policymakers, and professionals examine how technological advancements may affect employment opportunities and workforce development. By combining data visualization with accessible analysis, Workforce makes complex labor market information easier to understand.
+Technologies Used
 
-### Authors: Stuart Russell and Peter Norvig
-
-
-I’m interested in this book because I would like to expand my knowledge to learn how to use A.I. as intended and not like I have been using it- which is to create happy birthday posters for the people I love or to help with recipes for cooking. I would not have found this book if it weren’t for this class so thank you- and I will finish reading it to maybe get me to actually pay for one of the best A.I. apps to help start my journey to owning a cigar experience lounge.
+- HTML5
+- CSS3
+- JavaScript
+- Data Visualization Tools
+- GitHub Pages
